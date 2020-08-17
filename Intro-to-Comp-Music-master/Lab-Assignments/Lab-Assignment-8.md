@@ -2,12 +2,10 @@
 ## 1/3 Creating your Final Mix
 
 ---
-
 #### Objectives:
   * Practice with routing and use of plugins on a submix/bus
   * Practice with balancing volume levels
   * Practice with compression
-
 ---
 
 A sample project has been made to use with this lab and is on Moodle. Please ensure that your song/project has the title "YourFirstNameYourLastName-Lab6".
