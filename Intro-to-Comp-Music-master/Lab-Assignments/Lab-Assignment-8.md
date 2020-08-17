@@ -1,5 +1,5 @@
 # Lab Assignment 6
-## Creating a Final Mix 1/3
+## Creating a Final Mix: Volume Balance and Compression
 
 ---
 #### Objectives:
