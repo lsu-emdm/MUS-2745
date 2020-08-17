@@ -1,5 +1,5 @@
 # Lab Assignment 8
-## Automation and Effects
+## Creating a Final Mix: Automation and Effects
 
 ---
 #### Objectives:
@@ -7,6 +7,7 @@
   * Practice with applying effects
   * Practice with using a limiter
 ---
+
 1. Add at least two effects plugins discussed in class to the tracks of your choosing. Be thoughtful about the effects you add and think about how they will contribute to the overall mix.
 
 2. Add at least one instance of automation to a parameter of a plugin that you have used so far. This may be either on the effects you have just added or on plugins used in the previous two labs. You may either apply this automation directly to the track or on a separate automation track.
