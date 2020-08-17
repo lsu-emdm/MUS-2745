@@ -1,5 +1,5 @@
 # Lab Assignment 6
-## 1/3 Creating your Final Mix
+## Creating a Final Mix 1/3
 
 ---
 #### Objectives:
