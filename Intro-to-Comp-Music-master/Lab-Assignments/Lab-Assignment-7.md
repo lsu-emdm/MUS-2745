@@ -7,6 +7,7 @@
   * Practice with applying effects
   * Practice with using a limiter
 ---
+Use the sample project files from lab 7 to complete this assignment. Please ensure that your song/project is updated with the title "YourFirstNameYourLastName-Lab8".
 
 1. Add at least two effects plugins discussed in class to the tracks of your choosing. Be thoughtful about the effects you add and think about how they will contribute to the overall mix.
 
