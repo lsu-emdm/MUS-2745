@@ -4,24 +4,15 @@
 ---
 
 #### Prerequisites
-Content from Lab Assignment 1  
 
-Content from Lab Assignment 2  
-
-Create personal free account at [Freesound.org](https://freesound.org)  
+Create a personal free account at [Freesound.org](https://freesound.org)  
 
 Optional: Explore [Freesound.org](https://freesound.org) and the [University of Iowa Musical Instrument Samples](http://theremin.music.uiowa.edu/MIS.html) repository for interesting samples
-
-Review the following document from our course materials:
-  * [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md)
-
 ---
-
 #### Objectives:
   * [Crossfades](../DAW-instructions/crossfades.md)
   * [Introduction to the Mixer/Console](../DAW-instructions/console-intro.md)
   * [Volume and Pan Automation](../DAW-instructions/volume-and-pan-automation.md)
-
 ---
 1. Download at least 3 interesting audio files from [Freesound.org](https://freesound.org) and/or the [University of Iowa Musical Instrument Samples](http://theremin.music.uiowa.edu/MIS.html) repository. The content of the files is at your discretion, but they must be in an uncompressed format - this includes wav, aiff, Apple Lossless, FLAC or caf files. *Mp3 or AAC are prohibited.*
 2. Drag-and-Drop these new files onto new tracks in your Lab Assignment 3 project.
