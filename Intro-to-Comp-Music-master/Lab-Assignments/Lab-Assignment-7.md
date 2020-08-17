@@ -7,6 +7,7 @@
   * Practice with applying effects
   * Practice with using a limiter
 ---
+1. Add at least two effects plugins discussed in class to the tracks of your choice.
 
 
 8. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
