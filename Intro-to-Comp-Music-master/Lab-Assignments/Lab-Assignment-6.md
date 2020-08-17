@@ -1,11 +1,13 @@
 # Lab Assignment 7
-## EQ and Space
+## Creating a Final Mix: EQ and Space
 ---
 #### Objectives:
   * Practice with Eq (boosting and attenuating)
   * Practice with panning instruments in a stereo field
   * Practice with applying reverb and compression
 ---
+Use the sample project files from lab 6 to complete this assignment. Please ensure that your song/project is updated with the title "YourFirstNameYourLastName-Lab7".
+
 1. The cymbals on the drum track are a little too quiet. Without adjusting the overall drum track volume, add the Pro EQ plugin to the track. Set the cutoff for the high shelf filter somewhere between 2-5kHz. Then use the gain knob on the filter to boost these frequencies until you achieve a desirable sound.  
 
 2. The vocal's eq needs to be adjusted because there is a very obvious ringing sound. Add the Pro Eq plugin and look at the spectrum property which plays the graphic as the sound is coming through. You should see a peaking section somewhere around the middle of the section. Pull that frequency out to clean up the overall sound.
