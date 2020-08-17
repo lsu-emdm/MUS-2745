@@ -8,6 +8,7 @@
 Create a personal free account at [Freesound.org](https://freesound.org)  
 
 Optional: Explore [Freesound.org](https://freesound.org) and the [University of Iowa Musical Instrument Samples](http://theremin.music.uiowa.edu/MIS.html) repository for interesting samples
+
 ---
 #### Objectives:
   * [Crossfades](../DAW-instructions/crossfades.md)
