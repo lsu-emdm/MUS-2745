@@ -2,7 +2,6 @@
 ## Basic Audio Editing and Intro to Studio One
 
 ---
-
 #### Prerequisites
 Review the following sections in the Studio One Reference Manual:
   * Fundamentals>Drag-and-Drop
@@ -12,10 +11,6 @@ Review the following sections in the Studio One Reference Manual:
   * Optional but recommended:
     * Editing>Arrange View Mouse Tools
     * Editing>Common Editing Actions
-
-Review the following document from our course materials:
-  * [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md)
-
 ---
 
 #### Objectives
