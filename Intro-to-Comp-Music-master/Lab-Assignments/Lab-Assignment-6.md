@@ -1,5 +1,5 @@
-# Lab Assignment 6
-## Video Workflow
+# Lab Assignment 7
+## EQ and Space
 
 ---
 
@@ -36,3 +36,5 @@ Video Format - "MPEG-4"
 Export Range - "Video"
 Hit "ok"
 The resulting file is ready to submit with your Mini Composition 2 folder.
+
+4. The vocal's eq needs to be adjusted because there is a very obvious ringing sound. Open the Eq plugin and look at the spectrum property which plays the graphic as the sound is coming through. You should see a peaking section somewhere around the middle of the section. Pull that frequency out to clean up the overall sound.
