@@ -11,10 +11,6 @@ Preparation of a mobile audio recording app of your choice on your personal mobi
   * Test recording of uncompressed audio.
   * Test file transfer from mobile device to computer.
 If you do not own a mobile device capable of recording audio (iPhone, Android, or other portable standalone recorder), one will be provided for you at the lab meeting time.
-
-Review the following document from our course materials:
-  * [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md)
-
 ---
 
 #### Objectives:
