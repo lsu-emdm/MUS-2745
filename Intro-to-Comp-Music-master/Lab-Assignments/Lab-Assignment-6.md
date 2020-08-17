@@ -1,6 +1,10 @@
 # Lab Assignment 7
 ## EQ and Space
-
+---
+#### Objectives:
+  * Practice with Eq (boosting and attenuating)
+  * Practice with panning instruments in a stereo field
+  * Practice with applying reverb and compression
 ---
 1. The cymbals on the drum track are a little too quiet. Without adjusting the overall drum track volume, add the Pro EQ plugin to the track. Set the cutoff for the high shelf filter somewhere between 2-5kHz. Then use the gain knob on the filter to boost these frequencies until you achieve a desirable sound.  
 
@@ -13,7 +17,7 @@
 
 Let your ears be your guide!
  
- 4. Add one instance of reverb and delay to the tracks of your choosing. The goal is to fill in the space between the instruments to help make the mix sound FULL. Do not over-saturate, less is more! Make sure to add the plugin to the sub-mix you created for the bass and guitar if you want to use these instruments.
+4. Add one instance of reverb and delay to the tracks of your choosing. The goal is to fill in the space between the instruments to help make the mix sound FULL. Do not over-saturate, less is more! Make sure to add the plugin to the sub-mix you created for the bass and guitar if you want to use these instruments.
  
 5. When you are finished, submit your project using the procedure in the Basic Submission Instructions document.
 
