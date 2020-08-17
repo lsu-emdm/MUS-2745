@@ -1,4 +1,4 @@
-# Lab Assignment 7
+# Lab Assignment 8
 ## Advanced MIDI and Automation
 
 ---
