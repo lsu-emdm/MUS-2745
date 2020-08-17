@@ -4,15 +4,6 @@
 ---
 
 #### Prerequisites
-Content from all previous lab assignments
-
-[The Grid](../DAW-instructions/the-grid.md) in the Studio One Reference Manual
-
-Recommended - review the following sections in the Studio One Reference Manual:
-  * [Loops Tab](../DAW-instructions/loops-tab.md)
-  * [Browsing for Instruments](../DAW-instructions/browsing-for-instruments.md) (in Instruments and Audio Effects)
-  * All Built-In Virtual Instruments - especially [Mojito](../DAW-instructions/mojito.md) and Mai Tai
-  * [Metronome Control](../DAW-instructions/metronome-control.md)
 
 Optional - [Set Up MIDI Keyboards](../DAW-instructions/setup-midi-keyboards.md) in the Studio One Reference Manual
 *Our MIDI controllers in the lab have already been properly set up. However, they occasionally need to be reconfigured.
