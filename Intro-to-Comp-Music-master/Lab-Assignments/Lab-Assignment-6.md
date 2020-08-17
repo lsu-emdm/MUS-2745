@@ -10,6 +10,7 @@
 * Drums - Left 15
 * Bass - Left 15
 * Guitar - Right 50
+
 Let your ears be your guide!
  
  4. Add one instance of reverb and delay to the tracks of your choosing. The goal is to fill in the space between the instruments to help make the mix sound FULL. Do not over-saturate, less is more! Make sure to add the plugin to the sub-mix you created for the bass and guitar if you want to use these instruments.
