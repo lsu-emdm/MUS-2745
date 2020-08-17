@@ -2,39 +2,15 @@
 ## EQ and Space
 
 ---
+1. The cymbals on the drum track are a little too quiet. Without adjusting the overall drum track volume, add the Pro EQ plugin to the track. Set the cutoff for the high shelf filter somewhere between 2-5kHz. Then use the gain knob on the filter to boost these frequencies until you achieve a desirable sound.  
 
-There will not be any files to submit for this lab. We will consider it a work day to familiarize yourself with a **Video Workflow** process in preparation for **Mini Composition 2**.
-You do not have to use the exact procedure outlined for this exercise. However, the steps described below use software already available to you in the SoM203 lab.
-Your primary objective should be to work through all of the sections below and approach the instructor if you need further instructions or clarifications. You do not need to decide on the video you will be using for your Mini Composition 2 during this lab, though it is recommended.
+2. The vocal's eq needs to be adjusted because there is a very obvious ringing sound. Add the Pro Eq plugin and look at the spectrum property which plays the graphic as the sound is coming through. You should see a peaking section somewhere around the middle of the section. Pull that frequency out to clean up the overall sound.
 
----
-
-### Software and sites referenced:
-  * Studio One
-  * Archive.org
-  * YouTube
-  * YouTube downloader sites (various)
-
----
-
-#### Finding a Video
-You are certainly welcome to supply your own video for this project, including one you shoot and edit yourself. If you need to find one online, your best sources are likely [Archive.org](https://archive.org) and YouTube.  
-With **Archive.org**, video files from various categories are freely available to download. Many of them are in the [Public Domain](https://en.wikipedia.org/wiki/Public_domain), meaning that their "exclusive intellectual property rights have expired, have been forfeited, have been expressly waived, or are inapplicable." However, due to the times in which some of these older films were produced, some of them may contain offensive content. Please be sensitive to this matter if you are looking for videos on Archive.org. When downloading, simply chose the best quality file available to you.  
-Many videos on **YouTube** are likely subject to copyright claims. We will be using these videos for educational purposes under the [Fair Use](https://en.wikipedia.org/wiki/Fair_use) doctrine. Your video projects will only be shown in class, only stored locally, and deleted from the lab after the projects have been graded. Students will assume all legal responsibilities if they decide to distribute these videos elsewhere. Use a YouTube downloader site to download videos from YouTube - you should be able to find one easily through an online search.
-  
-
-#### Importing video into Studio One
-Importing video into Studio One is generally as simple as dragging the video file into the Studio One arrange window. For a more thorough explanation, see the [Import Video](../DAW-instructions/import-video.md) instructions. Once a video is in your timeline, you can simply compose your soundtrack along with the video.
-For more help or further details, see [this instructional video](https://youtu.be/JdXaJqNCl1I) or search for "video" inside the Studio One reference manual.
-Keep in mind that once your soundtrack is finished, you will NOT actually be exporting the video from Studio One, only the new audio mixdown. You will need to use iMovie again to align your finished audio mixdown with the video file.
-*NOTE: This is one of the few instances in which the Pro version of Studio One is required for your assignment. Video import and the video track playback window are not available in the Artist or Prime (free) versions.
-To work on Mini Composition 2, you may decide to activate the 30 day demo of Studio One Pro on your personal computer, use the Artist or Prime versions to compose soundtrack ideas without the video, or do all of you work during open lab hours.*
-
-#### Finishing Your Video
-Choose Song > Export Video, then use the folowing settings:
-Video Format - "MPEG-4"
-Export Range - "Video"
-Hit "ok"
-The resulting file is ready to submit with your Mini Composition 2 folder.
-
-4. The vocal's eq needs to be adjusted because there is a very obvious ringing sound. Open the Eq plugin and look at the spectrum property which plays the graphic as the sound is coming through. You should see a peaking section somewhere around the middle of the section. Pull that frequency out to clean up the overall sound.
+3. Pan the drums, bass, and guitar to achieve a desirable sound. Since you have limited instruments to work with, panning to <100> on either side might create too much space. I would recommend this as a starting place:
+            * Drums <L15>
+            * Bass <L50>
+            * Guitar <R50>
+ 
+ Let your ears be your guide!
+ 
+ 4. Add one instance of reverb and delay to the tracks of your choosing. The goal is to fill in the space between the instruments to help make the mix sound FULL. Do not over-saturate, less is more! Make sure to add the plugin to the sub-mix you created for the bass and guitar if you want to use these instruments. 
