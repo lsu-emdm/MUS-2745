@@ -4,7 +4,6 @@
 ---
 
 #### Prerequisites
-Content from Lab Assignment 1  
 
 Preparation of a mobile audio recording app of your choice on your personal mobile device:
   * Select and install an app that has the ability to record uncompressed audio - this includes wav, aiff, Apple Lossless, FLAC or caf files. Apps that record only in mp3 or AAC are prohibited.
