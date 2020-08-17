@@ -7,9 +7,9 @@
 2. The vocal's eq needs to be adjusted because there is a very obvious ringing sound. Add the Pro Eq plugin and look at the spectrum property which plays the graphic as the sound is coming through. You should see a peaking section somewhere around the middle of the section. Pull that frequency out to clean up the overall sound.
 
 3. Pan the drums, bass, and guitar to achieve a desirable sound. Since you have limited instruments to work with, panning to <100> on either side might create too much space. I would recommend this as a starting place:
-            * Drums - Left 15
-            * Bass - Left 15
-            * Guitar - Right 50
+* Drums - Left 15
+* Bass - Left 15
+* Guitar - Right 50
  Let your ears be your guide!
  
  4. Add one instance of reverb and delay to the tracks of your choosing. The goal is to fill in the space between the instruments to help make the mix sound FULL. Do not over-saturate, less is more! Make sure to add the plugin to the sub-mix you created for the bass and guitar if you want to use these instruments.
