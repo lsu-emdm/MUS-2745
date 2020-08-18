@@ -32,3 +32,12 @@ This section of the manual is crucial to ensure that you know how to configure M
 6. You probably didn’t play the part perfectly. Double-click on the newly recorded MIDI region to open the piano roll editor at the bottom of the screen. Snap the notes onto [The Grid](../DAW-instructions/the-grid.md) using an operation called “Quantization”. Make sure that "Auto Quantization" is turned on via the AQ button. Select all of the MIDI notes in the piano roll with [Ctrl+A] on Windows or [Command+A] on Mac and select a value from the quantize dropdown menu. You might have to try a couple of different values - start with 1/8 and listen to see if that worked. If it did, your bass part should be perfectly in time  with the drum loop. If it didn’t, try 1/4 or 1/16.
 6. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-project) document.
 7. As always, save a backup copy on your personal storage media.
+
+# Rubric
+## Lab Assignment
+---
+
+| | **1** | **3** | **5** | **Score**
+| --- | --- | --- | --- | ---
+| **Instructions** | Failed to complete most of the required steps. | Completed most of the required steps. | Completed all of the required steps. | |
+| **General Technical Merit** | Several errors made in mixing, bouncing, and/or submitting. | One or two errors made in mixing, bouncing, and/or submitting. | No errors made in mixing, bouncing, and/or submitting. | | |
