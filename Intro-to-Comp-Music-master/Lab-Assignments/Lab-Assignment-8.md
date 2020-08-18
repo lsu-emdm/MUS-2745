@@ -18,3 +18,12 @@ Use the sample project files from lab 7 to complete this assignment. Please ensu
 4. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
 
 5. As always, save a backup copy on your personal storage media.
+
+# Rubric
+## Lab Assignment
+---
+
+| | **1** | **3** | **5** | **Score**
+| --- | --- | --- | --- | ---
+| **Instructions** | Failed to complete most of the required steps. | Completed most of the required steps. | Completed all of the required steps. | |
+| **General Technical Merit** | Several errors made in mixing, bouncing, and/or submitting. | One or two errors made in mixing, bouncing, and/or submitting. | No errors made in mixing, bouncing, and/or submitting. | | |
