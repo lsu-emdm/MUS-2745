@@ -39,3 +39,21 @@ Review the following sections in the Studio One Reference Manual:
 4. Ensure that all of your edits are snapped to [The Grid](../DAW-instructions/the-grid.md). When grid snapping is on, by default, regions and edits will snap to rhythmic divisions as you drag in the arrange window. To temporarily disable this behavior – e.g. if you need to make a tighter edit on an individual audio region – hold the shift key while dragging. If you notice the opposite behavior - that snapping only occurs while holding shift – simply press the N key to re-enable **Snap to Grid**.
 5. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md) document.
 6. As always, save a backup copy on your personal storage media.
+
+# Rubric
+## Lab Assignment
+
+---
+
+#### Student's Name:
+#### Points: /10
+#### Grade:
+
+---
+
+| | **1** | **3** | **5** | **Score**
+| --- | --- | --- | --- | ---
+| **Instructions** | Failed to complete most of the required steps. | Completed most of the required steps. | Completed all of the required steps. | |
+| **General Technical Merit** | Several errors made in mixing, bouncing, and/or submitting. | One or two errors made in mixing, bouncing, and/or submitting. | No errors made in mixing, bouncing, and/or submitting. | | |
+
+#### Comments:
