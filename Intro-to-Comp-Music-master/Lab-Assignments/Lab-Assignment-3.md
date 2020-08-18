@@ -22,3 +22,12 @@ Create a personal free account at [Freesound.org](https://freesound.org)
 Look for intriguing ways to combine the sounds that you have collected so far - perhaps two audio files complement each other when their volumes are balanced a particular way, or a sound that sweeps across from the left to the right using pan automation is a dramatic introduction to a contrasting sound. Try to build a narrative with the sounds with a clear beginning, middle, and end. 
 4. When you are finished, submit your project using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document.
 5. As always, save a backup copy on your personal storage media.
+
+# Rubric
+## Lab Assignment
+---
+
+| | **1** | **3** | **5** | **Score**
+| --- | --- | --- | --- | ---
+| **Instructions** | Failed to complete most of the required steps. | Completed most of the required steps. | Completed all of the required steps. | |
+| **General Technical Merit** | Several errors made in mixing, bouncing, and/or submitting. | One or two errors made in mixing, bouncing, and/or submitting. | No errors made in mixing, bouncing, and/or submitting. | | |
