@@ -5,7 +5,7 @@
 
 #### Prerequisites
 
-Create a personal free account at [Freesound.org](https://freesound.org)  
+A personal free account at [Freesound.org](https://freesound.org)  
 
 ---
 #### Objectives:
