@@ -46,3 +46,6 @@ This step should be followed for all Lab Assignments (at the end of the lab hour
 4. You should now see a "MUS2745 Spring 2020 Submissions" Folder inside of Student > Desktop with folders labelled for all of our semester assignments and projects (Lab 1, Lab 2, Mini Composition 1, etc).
 5. Drag the song **folder** for your submission into the corresponding folder inside "MUS2745 Spring 2020 Submissions".
 6. If you would like, you can then go over to the main iMac at the mixing desk to open your project from the same "MUS2745 Spring 2020 Submissions" folder to ensure that everything works and all files transferred. It is up to you to make sure that I can open your project on that computer for grading.
+
+## Submitting a Song Virtually
+In order to submit directly to Moodle, you will need to first compress the file/folder and upload it to a cloud storage service of your choice (Google Drive, Dropbox, etc.). Submit the shareable link to Moodle as a comment or as a .txt or .doc file.
