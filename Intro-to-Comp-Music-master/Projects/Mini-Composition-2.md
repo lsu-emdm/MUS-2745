@@ -15,7 +15,7 @@
   * at least 3 MIDI tracks with different custom settings on each track (use both Mojito and Mai Tai)
   * well-edited and/or quantized MIDI
   * at least 3 instances of instrument parameter automation that are not volume/pan (can be all 3 on one track or split up between the 3 tracks).
-4. For this assignment, you will need to submit a [Mixdown](../DAW-instructions/mixing-down.md) in addition to your song project folder. Use the 16bit/44.1 setting in the wav format. Listen to this Mixdown file all the way through to ensure it is free of errors.
+4. For this assignment, you will need to submit a [Mixdown](../DAW-instructions/mixing-down.md) (which you can do by going to Song>Export Video) in addition to your song project folder. Use the 16bit/44.1 setting in the wav format. Listen to this Mixdown file all the way through to ensure it is free of errors.
 5. You will also need to submit a video file containing your finished video with your audio track attached. 
 
 6. When you are finished, ensure that your project has the name "YourFirstNameYourLastName-MiniComp2" and submit using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document. Make sure that both the Mixdown file and video file are stored inside your song project folder before submitting.
