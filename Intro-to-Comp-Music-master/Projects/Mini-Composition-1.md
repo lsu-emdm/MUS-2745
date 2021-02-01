@@ -4,11 +4,11 @@
 ---
 
 ##### Description
-  For this project, you will compose a 1:00-2:00 piece using techniques from the Musique Concrète tradition that tells a story through sound. The composition should take the listener through an activity, scene, emotion, or environment without the aid of spoken word. It should also have a coherent formal structure, with a clear beginning and ending.
+  For this project, you will compose a 1:00-2:00 piece using techniques from the Musique Concrète tradition. The composition should take the listener through an activity, scene, emotion, or environment without the aid of spoken word. It should also have a coherent formal structure, with a clear beginning and ending.
 
 ---
 
-1. Only use audio samples (no virtual instruments). The source audio material for the composition may be retrieved from an online repository such as Freesound.org or the University of Iowa Musical Instrument Samples, taken from other available recordings (commercial or otherwise), or recorded yourself using a portable recorder or other recording device. You may use as many sources as you like, but I would suggest limiting yourself to a few sources and achieving variety through creative editing techniques.
+1. Only use audio samples (no virtual instruments or Studio One loops). The source audio material for the composition may be retrieved from an online repository such as Freesound.org or the University of Iowa Musical Instrument Samples, taken from other available recordings (commercial or otherwise), or recorded yourself using a portable recorder or other recording device. You may use as many sources as you like, but I would suggest limiting yourself to a few sources and achieving variety through creative editing techniques.
 2. You may only use the following techniques: cutting/splicing, fading, speed and pitch manipulation, reversing, and volume and pan adjustment using the mixer and automation. In other words, no effects, no virtual instruments or MIDI sequencing, just audio editing and basic mixing. **YOU NEED ONE EXAMPLE OF EACH**
 4. When you are finished, ensure that your project has the name "YourFirstNameYourLastName-MiniComp1" and submit using the procedure in the [Basic Submission Instructions](../DAW-instructions/basic-submission-instructions.md#submitting-a-song) document. **OR** submit it to me by a link to Google Drive or Drop Box.
 5. As always, save a backup copy on your personal storage media.
